@@ -1,0 +1,1 @@
+combustivel = float(input(' '))
